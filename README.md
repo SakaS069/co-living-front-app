@@ -2,7 +2,7 @@
 
 ## 0. Site accessible à l'adresse suivante :
 
-[Markdown Live Preview](34.76.212.175)
+[co-living-front-app](http://34.76.212.175)
 
 ## 1. Création de la VM
 
