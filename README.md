@@ -1,5 +1,9 @@
 # Déploiement d'une Application Angular sur une VM Google Cloud (Ubuntu 22.04)
 
+## 0. Site accessible à l'adresse suivante :
+
+[Markdown Live Preview](34.76.212.175)
+
 ## 1. Création de la VM
 
 - **Fournisseur** : Google Cloud Platform (GCP)
